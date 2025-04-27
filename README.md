@@ -1,4 +1,4 @@
-## Hi there 👋
+## WELCOME ABROAD! 👋
 
 I’m Dinda and currently learning UI/UX and front-end! <br>
 
