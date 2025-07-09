@@ -7,3 +7,7 @@ Instagram : [Instagram](instagram.com/dindaapoetrii<span>) <br>
 LinkedIn : [LinkedIn](linkedin.com/in/dindapoetri)
 ## PORTOFOLIO ##
 Click here
+
+UI/UX
+Fullstack
+Game Development
